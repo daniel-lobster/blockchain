@@ -10,6 +10,6 @@ In the left margin you can modify the difficulty to create a new block. This is 
 
 By clicking on "Validate Chain" the blockchain will be validated using the hash in each block. If the validation is successful you will get a "True" sign in green letters under the button. 
 
-<p align='center'> <img src='images/picture_1.jpg'></p>
+<p align='center'> <img src='images/picture_1.JPG'></p>
 
-<p align='center'> <img src='images/picture_2.jpg'></p>
+<p align='center'> <img src='images/picture_2.JPG'></p>
